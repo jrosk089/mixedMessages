@@ -48,16 +48,19 @@ const otherPersonList = ['the Pope',
 
 //start of function to create random text
 function composerFacts() {
+    //create a random number based on the input array
     function getRandNum(array){
         return Math.floor(Math.random() * array.length);
     }
 
+    //choosing random indexes from the different arrays
     let composer = composerList[getRandNum(composerList)];
     let locationVerb = locationActions[getRandNum(locationActions)];
     let location = locationList[getRandNum(locationList)];
     let verb = verbList[getRandNum(verbList)];
     let otherPerson = otherPersonList[getRandNum(otherPersonList)];
 
+    //putting it all together!
     let fullString = `${composer} ${locationVerb} ${location} and ${verb} ${otherPerson}`;
     console.log("Did you know:")
     console.log(fullString + "?");
