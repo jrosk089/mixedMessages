@@ -1,0 +1,32 @@
+Plan for Mixed Messages
+
+- Create a random text generator that makes spurious claims about famous composers
+- Start each with "Did you know:"
+- Randomly choose composer out of list of:
+	Brahms
+	Mozart
+	Beethoven
+	Mendelssohn
+	J.S. Bach
+	Vivaldi
+	Wagner
+	Richard Strauss
+	Stravinsky
+	Schoenberg
+	Rachmaninoff
+	Shostakovich
+- Randomly choose location out of:
+	London
+	Paris
+	Bolivia
+	Pyongyang
+	Guadalahara
+	Timbuktu
+	Ouagadougou
+	Pasadena
+	Newcastle-upon-Tyne
+	Darkest Peru
+	Magadan
+	Djibouti
+- Randomly choose act out of:
+	
