@@ -15,6 +15,11 @@ Plan for Mixed Messages
 	Schoenberg
 	Rachmaninoff
 	Shostakovich
+- Randomly choose action out of:
+	once went to
+	once stayed in
+	once travelled through
+	once performed in
 - Randomly choose location out of:
 	London
 	Paris
@@ -28,5 +33,29 @@ Plan for Mixed Messages
 	Darkest Peru
 	Magadan
 	Djibouti
-- Randomly choose act out of:
-	
+- Randomly choose verb out of:
+	bonked
+	ate cheese off
+	received extremely poor-quality oral sex from
+	gave an unwanted sensual massage to
+	invented Carcassonne with
+	very ineffectually punched
+	pretended to be
+	ran away from a murderous horde with
+	played Dungeons and Dragons with
+	roundly insulted
+	defenstrated
+	played naked leapfrog with
+- Randomly choose other person out of:
+	the Pope
+	Joe Biden's great-great-great-grandmother
+	Bruce Forsyth
+	the Holy Roman Emperor
+	a pulsating green blob from Kwx'trrrmooool
+	Zaphod Beebelbrox
+	an inanimate statue
+	the period's greatest ostrich-tickler
+	the entire nation of Macedonia
+	a Russian eunuch
+	the Emperor of Prussia
+	the first person ever to say "Wazaaaap"
