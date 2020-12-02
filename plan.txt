@@ -25,7 +25,7 @@ Plan for Mixed Messages
 	Paris
 	Bolivia
 	Pyongyang
-	Guadalahara
+	Guadalajara
 	Timbuktu
 	Ouagadougou
 	Pasadena
@@ -59,3 +59,10 @@ Plan for Mixed Messages
 	a Russian eunuch
 	the Emperor of Prussia
 	the first person ever to say "Wazaaaap"
+
+How to do:
+- Probably create one function to do everything? I don't think it would be more efficient to have a function for each choice.
+- Create empty strings for each choice
+- Use Math.floor(Math.random * [whatever the total number of options is]) to create a random number
+- EITHER create array to store possible answers and .push() them based on the random number
+- return concatenation of all strings
